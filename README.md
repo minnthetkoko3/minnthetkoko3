@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am learning Beginner Web Development**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minntehtkoko3&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnthetkoko3&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
