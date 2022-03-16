@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html,Css**
 
-- 📫 How to reach me **minnthetkoko@gmail.com**
+- 📫 How to reach me **https://www.facebook.com/minnthet.riza**
 
 - ⚡ Fun fact **I am learning Beginner Web Development**
 
