@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm minnthetkoko</h1>
+<h1 align="center">minnthetkoko</h1>
 <h3 align="center">mern stack developer from myanmar</h3>
 
 - 🌱 I’m currently learning **frontend, react js**
